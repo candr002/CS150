@@ -1,0 +1,9 @@
+Employee: Jimmy Young, ID: 6102
+Item: Vinegar, Balsamic 640z.
+- Purchase Price: ................. $3.45
+- Markup Percent: ................. 78.00%
+- Selling Price: .................. $6.14
+- Sales tax rate: .................  5.00%
+- Total sales tax: ................ $0.31
+- Final sales amt: ................ $6.45
+---------------------------------------------
