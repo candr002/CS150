@@ -1,0 +1,10 @@
+Bob Beezer     		m 	1234   	12.50   	3
+Mary Fritz		f	2345	15.00		1
+Janice Jenkins		f	3456	12.50		4
+Harry Hacker		m	1111	15.00		3
+Henrietta Hacker	f	1112	14.00		3
+Horatio Hacker 		m	9876	12.00		5
+Hortense Hacker 	m	9875	12.00 		1
+Holly Hacker 		f	6666	18.00		1
+Zeke Zolander 		m  	5555	15.00 		3
+Marvelous Marvin	m	5576	12.50		4

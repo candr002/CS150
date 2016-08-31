@@ -1,0 +1,22 @@
+
+Project 4 is due before 11:59pm on Tuesday, April 12th.
+
+The game plays as before, with the addition of the following new features:
+(1) Upon launch, program displays the top three player scores stored in game history file.
+(2) Display top ten scores and average of those scores if menu choice 3 is chosen.
+Your solution program output should resemble the demo executable provided, so to see how the program works, 
+run that .exe file with the gamehistory.txt file provided.
+If you have questions on anything - come to lecture Tuesday and ask.
+
+Note that you are not allowed to CHEAT on this assignment.
+This means that you are not allowed to help anyone, or ask for help, or get help, or discuss this
+project with ANYONE except the cs150 TAs and the instructor of the course.
+All violations will be reported to the ODU Honor council.
+
+
+Your program must contain proper documentation, or you will lose points.
+Your program must run, or you will recieve a zero.
+
+The solution for project 3 is posted. You may want to use that as a starting point for 
+your solution to project 4.
+

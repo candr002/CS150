@@ -1,0 +1,14 @@
+codeJockey	28.28	3	Mar/15/2016
+lepracoder	8.08	3	mar/17/2016
+codeJockey	4.04	3	mar/17/2016
+lepracoder	2.02	3	mar/19/2014
+codeJockey	2.02	3	mar/19/2014
+lepracoder	26.26	3	Mar/11/2016
+codeRat		4.53	2	mar/21/2019
+codeMouse	4.53	2	Feb/22/2934
+codeJockey	6.06	3	Feb/18/2016
+codeWorrier	4.04	3	Feb/18/2016
+ 
+rowBear		2.02	3	Mar/17/2010
+CODEEGG	0	2	jAN/3/1876
+ORANGEJUICE	3.02	2	jAN/3/1876

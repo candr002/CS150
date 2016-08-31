@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455897467 source:z:\spring 2016\cs 150\project 1\dingdong\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<iomanip>
+

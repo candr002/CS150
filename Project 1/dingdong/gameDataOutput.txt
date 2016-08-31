@@ -1,0 +1,15 @@
+
+--------------------------------------
+Full Name: cdjkasl
+Alias: "dfsajkl;"
+Gender: f	ID: 21195
+Input Name: codedog.txt
+
+--------------------------------------
+Games played: 5
+	Lev 1: 3
+	Lev 2: 2
+Average Score: 26.000
+Avg Adj Score: 66.418
+
+--------------------------------------

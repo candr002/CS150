@@ -1,0 +1,27 @@
+
+Name:Eragorn
+ID(UIN):456667
+**************************
+Programmer Name: Chris Andrzejewski
+Programmer UIN: 01008193
+TA Name: Aida Ghazizadeh
+TA Email: aghaziza@cs.odu.edu
+**************************
+Acc#   Type    AmntDue
+81118	G	3146.48
+24545	r	47.50
+34343	M	1211.16
+66665	R	55.00
+34344	b	220.00
+89898	B	2210.00
+11116	g	4534.92
+10101	m	687.96
+12342	M	164.76
+
+=============================
+    9 total accounts.
+   -  2 residential accounts.
+   -  2 business accounts.
+   -  2 Government accounts.
+   -  3 Military accounts.
+Billing total for all accounts: 12277.78
