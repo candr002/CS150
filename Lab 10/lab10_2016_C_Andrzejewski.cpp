@@ -1,15 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Lab 07 - cs150 - spring 2016
-// Program description: Lab Assignment 10 Classes
-//
-//
-// File Name:  lab10_2016_C_Andrzejewski.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
-//
+
 
 #include <iostream>
 #include <ctime>
