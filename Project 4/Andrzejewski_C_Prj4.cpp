@@ -1,14 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Project 4 - cs150 - spring 2016
-// Program description: Project 4 "Questions Game"
-//
-//
-// File Name:  Andrzejewski_C_Prj2.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
+
 
 
 //=====================================================================
