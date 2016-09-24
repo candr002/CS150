@@ -1,15 +1,5 @@
 
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Lab 07 - cs150 - spring 2016
-// Program description: Lab Assignment 6 Array
-//
-//
-// File Name:  lab07_2016_C_Andrzejewski.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
