@@ -1,7 +1,4 @@
-//Programmer :Chris Andrzejewski
-//Date       :27 Jan 2016
-//Lab        :CRN 22935
-//Description:CS150 Lab 2 Assignment
+
 
 #include <iostream>
 #include <iomanip>
