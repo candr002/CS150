@@ -1,14 +1,4 @@
-/*/********************************************************
-Programmer Name: Chris Andrzejewski
-Lab CRN: 22935
-Date: 20 Jan 2016
-FileName: lab01_2016_C_Andrzejewski.cpp
 
-Program Information: cs150 Lab Assignment 1
-Based on a Malik text example-Write a program that converts measurements input in feet and
- inches, to the equivalent in centimeters.
- Formula: 1 inch is equal to 2.54 centimeters.
-*///********************************************************
 
     //pre-processor directives
 #include <iostream>         //input output stream
