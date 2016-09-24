@@ -1,7 +1,4 @@
-///Fill out these Preliminary Comments,  or lose points.
-//Programmer Name: Chris Andrzejewski
-//Programmer UIN: 01008193
-//Program Description: CS 150 Lab 3
+
 
 #include <iostream>
 #include <iomanip>
@@ -13,15 +10,7 @@ using namespace std;
 
 int main(){
                 //fill in this programmer info
-cout << "************************************\n";
-	cout << "*        Lab Assignment 3      *\n";
-	cout << "*  CS150 ODU Computer Science  *\n";
-	cout << "*  Author: Chris Andrzejewski  *\n";
-	cout << "*  Date: 3 Feb 2016            *\n";
-	cout << "*lab03_2016_C_Andrzejewski.cpp *\n";
-	cout << "*  TA Name: Aida Ghazizadeh    *\n";
-	cout << "*  TA Email:aghaziza@cs.odu.edu*\n";
-	cout << "********************************\n";
+
 
     //declare and initialize variables (formatting)
     int width = 5;
