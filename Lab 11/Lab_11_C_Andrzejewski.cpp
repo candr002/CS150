@@ -1,15 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// CRN:
-// Lab 11 - cs150 - spring 2016
-// Program description: Project 4 "Questions Game"
-//
-//
-// File Name:  Lab_11_C_Andrzejewski.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
+
 
 
 //=====================================================================
