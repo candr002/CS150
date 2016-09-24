@@ -1,14 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Lab 04 - cs150 - spring 2016
-// Program description: Lab Assignment 4 "Cable Company Bill"
-//
-//
-// File Name:  lab04_2016_F_LName.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
+
 
 #include <iostream>
 #include <iomanip>
@@ -16,17 +6,17 @@
 
 using namespace std;
 
-      //Named constants – new category of customers
+      //Named constants â€“ new category of customers
 const double GOV_BILL_PROC_FEES = 47.99;    //Government customer fees
 const double GOV_BASIC_SERV_COST = 82.33;
 const double GOV_BASIC_CONN_COST = 7.50;
 const double GOV_COST_PREM_CHANNEL = 69.88;
-      //Named constants – residential customers
+      //Named constants â€“ residential customers
 const double RES_BILL_PROC_FEES = 4.50;
 const double RES_BASIC_SERV_COST = 20.50;
 const double RES_COST_PREM_CHANNEL = 7.50;
 
-      //Named constants – business customers
+      //Named constants â€“ business customers
 const double BUS_BILL_PROC_FEES = 15.00;
 const double BUS_BASIC_SERV_COST = 75.00;
 const double BUS_BASIC_CONN_COST = 5.00;
