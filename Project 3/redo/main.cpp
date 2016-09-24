@@ -1,12 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Project 3- cs150 - spring 2016
-// Program description: Two Player Option for Game Rojecgt
-//
-//
-// File Name:  Andrzejewski_C_Prj3.cpp
-//***********************************************************
+
 
 #include <iostream>
 #include <fstream>
