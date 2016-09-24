@@ -1,14 +1,4 @@
-//***********************************************************
-// NAME:Chris Andrzejewski
-// UIN:01008193
-// Lab 06 - cs150 - spring 2016
-// Program description: Project 2 "Questions Game"
-//
-//
-// File Name:  Andrzejewski_C_Prj2.cpp
-// TA Name: Aida Ghazizadeh
-// TA Email: aghaziza@cs.odu.edu
-//***********************************************************
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
